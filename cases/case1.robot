@@ -19,3 +19,4 @@ Test Case 003
    input text    xpath://*[@id="voucher"]/form/input[1]    123
    click button    xpath://*[@id="voucher"]/form/input[3]
      should contain    xpath://*[@id="voucher"]/form/input[3]
+     close browser
